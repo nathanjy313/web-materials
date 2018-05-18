@@ -3,16 +3,23 @@
 /* add an id to the top level h1 header called first-header*/
 
 /* change the color of the first-header to purple and set font-family to Roboto*/
-
+#first-header {
+    color: purple;
+    font-family: 'Roboto';
+}
 /* add a class to both h2 headers called second-header */
 
 /* change the background color of each h2 to gold */
 
 
 /* only make the second h2 header have purple text*/
-
+#purple-header {
+    color: purple;
+}
 /* make sure both h1 and h2 headers have padding of 10px */
-
+h1, h2 {
+    padding: 10px;
+}
 
 
 /* center the image by referring it through the img tag */

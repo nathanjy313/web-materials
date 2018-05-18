@@ -1,0 +1,27 @@
+p {
+    font-size: 30px;
+    font-style: italic;
+    background-color: lightblue;
+  }
+  
+  p:hover {
+    font-size: 200px;
+  }
+  
+  .summary {
+    text-align: center;
+  }
+  
+  .summary:hover {
+      border-style: dotted;
+  }
+  
+  .sidebar {
+    position:fixed;
+  }
+  
+  h1:hover {
+    font-size: 40px;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+  }
